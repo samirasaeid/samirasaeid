@@ -18,8 +18,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
   ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
   ![](https://img.shields.io/badge/-Qt-222222?style=flat&logo=Qt&logoColor=FCC624)
-  ![](https://img.shields.io/badge/-Eclipse-222222?style=flat&logo=Eclipse&logoColor=FCC624)
-  [![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
   ![](https://img.shields.io/badge/-Altium-222222?style=flat&logo=Altium&logoColor=FCC624)
+
+  #### Editors
+  ![VS Code](http://img.shields.io/badge/-VS%20Code-222222?style=flat-square&logo=visual-studio-code)
+  ![CodeBlocks](http://img.shields.io/badge/-CodeBlocks-222222?style=flat-square&logo=CodeBlocks)
+  ![Eclipse](http://img.shields.io/badge/-Eclipse-222222?style=flat-square&logo=Eclipse)
+  ![Microchip](http://img.shields.io/badge/-Microchip-222222?style=flat-square&logo=Microchip)
   
   
