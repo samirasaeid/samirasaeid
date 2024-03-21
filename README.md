@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**samirasaeid/samirasaeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" > Hi, I am Samira Saeid 👋</h1>
 
-Here are some ideas to get you started:
+- 🎓 Recent Graduate from ITI - Embedded Systems Track
+- :mailbox: You can reach me with the links below
+  
+    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirasaeid264@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-saeid-462008164/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##### Languages I use
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+
+  ##### Some of the technologies I have worked with
+  ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+  ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+  ![](https://img.shields.io/badge/-Qt-222222?style=flat&logo=Qt&logoColor=FCC624)
+  ![](https://img.shields.io/badge/-Eclipse-222222?style=flat&logo=Eclipse&logoColor=FCC624)
+  [![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+  ![](https://img.shields.io/badge/-Altium-222222?style=flat&logo=Altium&logoColor=FCC624)
+  
+  
