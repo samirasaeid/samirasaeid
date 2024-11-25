@@ -1,11 +1,11 @@
 
 <h1 align="center" > Hi, I am Samira Saeid 👋</h1>
 
-- 🎓 Recent Graduate from ITI - Embedded Systems Track
+- 🎓 Graduate from ITI - Embedded Systems Track
 - :mailbox: You can reach me with the links below
   
     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirasaeid264@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-saeid-462008164/)
+   
 
   ##### Languages I use
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
