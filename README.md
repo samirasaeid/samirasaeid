@@ -1,7 +1,7 @@
 
 <h1 align="center" > Hi, I am Samira Saeid 👋</h1>
 
-- 🎓 Graduate from ITI - Embedded Systems Track
+- 🎓 Embedded System Engineer 
 - :mailbox: You can reach me with the links below
   
     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirasaeid264@gmail.com)
